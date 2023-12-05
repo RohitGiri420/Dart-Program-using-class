@@ -27,5 +27,4 @@ class helper{
    smallest(int num1,int num2){
      print((num1<num2)?"$num1 is Smallest":"$num2 is Smallest");
    }
-
 }
